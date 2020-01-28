@@ -1,0 +1,1 @@
+java -classpath target\jenkins-reporting.jar;conf Launch %*
